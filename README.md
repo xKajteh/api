@@ -1,1 +1,2 @@
-# API DO LICENCJI
+# API
+Api do sprawdzania licencji
